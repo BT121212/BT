@@ -1,4 +1,10 @@
 ·kjbska
+<<<<<<< HEAD
 1111
 
 hehe
+=======
+bds
+·
+KAH
+>>>>>>> m√¢y
